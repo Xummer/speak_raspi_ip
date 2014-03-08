@@ -59,7 +59,7 @@ def speak(ip):
             play("点")
         else:
             play(i)
-    play("完")
+    play("播报完毕")
 
 if __name__ == '__main__':
     count = 0
